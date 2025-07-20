@@ -1,0 +1,11 @@
+first_name,last_name,email,phone_number,address,registration_date,preferences
+John,Doe,john.doe@example.com,1234567890,"123 Main St, Apt 1",2023-01-15,"{""preferred_genres"": [""Action"", ""Sci-Fi""], ""newsletter"": true}"
+Jane,Smith,jane.smith@example.com,2345678901,"456 Oak Ave",2023-02-20,"{""preferred_genres"": [""Comedy""], ""notifications"": {""email"": false}}"
+Michael,Johnson,michael.j@example.com,3456789012,"789 Pine Rd",2023-03-10,"{""preferred_actors"": [""Tom Hanks""]}"
+Emily,Williams,emily.w@example.com,4567890123,"321 Elm St",2023-01-05,"{""preferred_genres"": [""Drama"", ""Romance""], ""newsletter"": false}"
+David,Brown,david.b@example.com,5678901234,"654 Maple Dr",2023-04-12,"{""notifications"": {""sms"": true}}"
+Sarah,Davis,sarah.d@example.com,6789012345,"987 Cedar Ln",2023-02-28,"{""preferred_genres"": [""Horror""], ""preferred_actors"": [""Meryl Streep""]}"
+Robert,Miller,robert.m@example.com,7890123456,"159 Birch Blvd",2023-03-15,"{""newsletter"": true, ""notifications"": {""email"": true, ""sms"": true}}"
+Jennifer,Wilson,jenny.w@example.com,8901234567,"753 Spruce Way",2023-01-30,"{""preferred_genres"": [""Documentary""]}"
+Thomas,Taylor,tom.t@example.com,9012345678,"357 Willow Path",2023-04-01,"{""preferred_actors"": [""Leonardo DiCaprio"", ""Brad Pitt""]}"
+Jessica,Anderson,jess.a@example.com,0123456789,"246 Redwood Cir",2023-02-14,"{""preferred_genres"": [""Thriller"", ""Mystery""], ""newsletter"": true}"
